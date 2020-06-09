@@ -29,7 +29,7 @@ NununHidayah ZCZCSCRIPTSTART 200603-214315 nvanonim
  NununHidayah nvanonim 200603-214354-9031-alghifari.taufan/ 200603-214354 SEQOK                                                                                         SUMOK 90315295
  NununHidayah nvanonim 200603-214356-3d4b-alghifari.taufan/ 200603-214356 SEQOK                                                                                         SUMOK 3d4bde12
  NununHidayah nvanonim 200603-214400-4c7d-alghifari.taufan/ 200603-214400 SEQOK                                                                                         SUMOK 4c7dcee6
- NununHidayah ZCZCSCRIPTSTOP ERROR nvanonim
+ NununHidayah ZCZCSCRIPTSTOP 200603-214417 SEQOK
 
 200608-214746-ba2d-nunun.hidayah/> exit
 exit
